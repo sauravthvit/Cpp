@@ -1,5 +1,4 @@
 #include <iostream>
-using namespace std;
 
 int main() {
 
@@ -8,7 +7,8 @@ int main() {
     // cout, cin = Identifiers
     //Identifers are created by programmers
     //<< = stream insertion operator
-    //: = Scope resolution operator
+    //>> = stream extraction operator
+    //:: = Scope resolution operator
     
     std::cout << "Enter your favourite number between 1 and 100:" << std::endl;
 
