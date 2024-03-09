@@ -21,7 +21,7 @@ If you're new to C++ programming or want to refresh your skills, feel free to ex
 Feel free to browse through the contents of this repository and explore the code snippets and projects. You can clone this repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/sauravthvit/Cpp.git
+git clone https://github.com/sauravthvit/cpp.git
 ```
 
 Once cloned, you can navigate through the directories and files, review the code, and experiment with it on your local machine.
