@@ -28,4 +28,7 @@ cout, cin, cerr, clog are objects representing streams
 
 C++ uses stream abstraction to handle I/O operations
 
+Binding in C++ refers to the process of associating an identifier (such as a variable name, function name, or class name) with a memory address or a specific function implementation.
+
+Declaration of a variable: variableType VariableName;
 
